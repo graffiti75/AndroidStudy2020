@@ -29,6 +29,12 @@ https://books.goalkicker.com/AndroidBook/
 
 # CLEAN ARCHITECTURE
 
+### Uncle Bob
+
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+   - Robert C. Martin (Uncle Bob)
+- [Robert C. Martin - Clean Architecture (Vimeo)](https://vimeo.com/43612849)
+
 ### Medium
 
 - [Android Clean Architecture — A "Unicorn" Approach"](https://engineering.talkdesk.com/android-clean-architecture-an-unicorn-approach-a5076d1b409)
@@ -101,9 +107,11 @@ https://books.goalkicker.com/AndroidBook/
 
 ### Fernando Cejas
 
-- [Clean Architecture in Java](https://github.com/android10/Android-CleanArchitecture)
+- [Architecting Android...The clean way?](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+   - Github Repo: [Clean Architecture in Java](https://github.com/android10/Android-CleanArchitecture)
+- [Architecting Android...The evolution](https://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 - [Architecting Android...Reloaded](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/)
-- [Clean Architecture in Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
+   - Github Repo: [Clean Architecture in Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
 
 ---
 
