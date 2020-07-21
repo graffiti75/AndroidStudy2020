@@ -33,13 +33,13 @@ https://books.goalkicker.com/AndroidBook/
 
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
    - Robert C. Martin (Uncle Bob)
-- [Robert C. Martin - Clean Architecture (Vimeo)](https://vimeo.com/43612849)
+- [~~Robert C. Martin - Clean Architecture (Vimeo)~~](https://vimeo.com/43612849)
 
 ### Fernando Cejas
 
-- [Architecting Android...The clean way?](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+- [~~Architecting Android...The clean way?~~](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
    - Github Repo: [Clean Architecture in Java](https://github.com/android10/Android-CleanArchitecture)
-- [Architecting Android...The evolution](https://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
+- [~~Architecting Android...The evolution~~](https://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 - [Clean Architecture: Dynamic Parameters in Use Cases](https://fernandocejas.com/2016/12/24/clean-architecture-dynamic-parameters-in-use-cases/)
 - [Architecting Android...Reloaded](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/)
    - Github Repo: [Clean Architecture in Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin)
