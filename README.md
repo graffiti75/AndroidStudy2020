@@ -16,7 +16,7 @@ Rodrigo Cericatto
    - [Advanced Android in Kotlin Course](https://codelabs.developers.google.com/advanced-android-kotlin-training/)
    - [Advanced Android with Kotlin](https://classroom.udacity.com/courses/ud940)
 - Posts
-   - [Android Fundamentals: Unit Tests](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0)
+   - [~~Android Fundamentals: Unit Tests~~](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0)
    - [Room with Coroutines and Espresso Unit Test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15)
    - [Advanced Android in Kotlin: Testing Basics](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0)
    - [Android Fundamentals: Espresso for UI Testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0)
