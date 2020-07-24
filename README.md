@@ -10,6 +10,18 @@ Rodrigo Cericatto
 
 ---
 
+# BOOKS
+
+- [Android Notes for Professionals](https://books.goalkicker.com/AndroidBook/)
+   - Highlights:
+      - Chapter 117: MVP Architecture, page 788
+      - Chapter 181: MVVM (Architecture), page 1035
+      - Chapter 220: Pagination in RecyclerView, page 1133
+- [Kotlin Notes for Professionals](https://books.goalkicker.com/KotlinBook/)
+- [Android Test-Driven Development by Tutorials](https://store.raywenderlich.com/products/android-test-driven-development-by-tutorials)
+
+---
+
 # CODELABS
 
 - Courses
@@ -18,23 +30,11 @@ Rodrigo Cericatto
 - Posts
    - [~~Android Fundamentals: Unit Tests~~](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0)
    - [Room with Coroutines and Espresso Unit Test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15)
-   - [Advanced Android in Kotlin: Testing Basics](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0)
+   - [Advanced Android in Kotlin: Testing Basics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics/index.html?index=..%2F..index#6)
    - [Android Fundamentals: Espresso for UI Testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0)
    - [Advanced Android in Kotlin: Introduction to Test Doubles and Dependency Injection](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-test-doubles/index.html?index=..%2F..index#0)
    - [Advanced Android in Kotlin: Survey of Testing Topics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-survey/index.html?index=..%2F..index#0)
    - [Automated Accessibility Testing using Espresso](https://codelabs.developers.google.com/codelabs/a11y-testing-espresso/index.html?index=..%2F..index#0)
-
----
-
-# ANDROID IN GENERAL
-
-### Android Notes for Professionals
-
-https://books.goalkicker.com/AndroidBook/
-
-- Chapter 117: MVP Architecture, page 788
-- Chapter 181: MVVM (Architecture), page 1035
-- Chapter 220: Pagination in RecyclerView, page 1133
 
 ---
 
@@ -127,7 +127,46 @@ https://books.goalkicker.com/AndroidBook/
 
 ---
 
+# CLEAN ARCHITECTURE WITH TDD
+
+### Posts
+
+- [Kotlin Clean Code For Android — Part 1](https://proandroiddev.com/kotlin-clean-code-for-android-part-1-3d01703ebea8)
+   - [ 6 min reading ]
+   - Mohanraj Karatadipalayam
+   - 138 claps
+- [Testing Network Layer Using TDD Approach with Android by Tutorial](https://medium.com/mindorks/android-tdd-by-tutorial-testing-network-layer-9a6ef911d325)
+   - [ 7 min reading ]
+   - Mohammed Mahmoud
+   - 180 claps
+- [How to do TDD in Android ? Part 2 — Project architecture , Setup & Unit Testing](https://medium.com/mobility/how-to-do-tdd-in-android-part-2-project-architecture-setup-unit-testing-77cdd1d6aa3a)
+   - [ 5 min reading ]
+   - Nilesh Jarad
+   - 1.2k claps
+- [Clean Architecture and TDD Demo](https://jeremiahflaga.github.io/2017/10/09/clean-architecture-and-tdd-demo/)
+   - [ 2 min reading ]
+- [TDD: Change the way you code!](https://android.jlelse.eu/tdd-change-the-way-you-code-241c8b53337e)
+   - [ 9 min reading ]
+   - Sachin Chandil
+   - 72 claps
+
+### Tutorials
+
+- [Writing Clean Architecture Use Cases w/ TDD | Kotlin Android Alarm App | Mockk JUnit 5](https://www.youtube.com/watch?v=ZpAcsWghJYg)
+   - wiseAss
+   - 2.357 views
+   - 51 likes
+
+### Lectures
+
+- [Clean Architecture & TDD](https://speakerdeck.com/srym/clean-architecture-and-tdd)
+   - Fumihiko Shiroyama
+
+---
+
 # ANDROID ARCHITECTURE
+
+### Android Developers
 
 - [Guide to app architecture](https://developer.android.com/jetpack/guide)
 
