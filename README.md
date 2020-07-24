@@ -1,8 +1,6 @@
 # ANDROID STUDY 2020
 
-Study material to enhance my Android Development skills.
-
-Project created by:
+Study material to enhance my Android Development skills. Project created by:
 
 Rodrigo Cericatto  
 **Email:** graffiti75@gmail.com  
@@ -323,7 +321,7 @@ Rodrigo Cericatto
 ### License
 
 ```
-Copyright 2019 - Rodrigo Cericatto
+Copyright 2020 - Rodrigo Cericatto
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
