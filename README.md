@@ -173,6 +173,10 @@ Rodrigo Cericatto
 ### Android Developers
 
 - [Guide to app architecture](https://developer.android.com/jetpack/guide)
+- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+
+<img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="800" height="600" />
 
 ### Posts
 
