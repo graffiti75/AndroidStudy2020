@@ -24,6 +24,7 @@ Rodrigo Cericatto
 
 ### Courses
 
+- [Android Kotlin Fundamentals](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
 - [Advanced Android in Kotlin](https://codelabs.developers.google.com/advanced-android-kotlin-training/)
 - [Advanced Android with Kotlin](https://classroom.udacity.com/courses/ud940)
 
