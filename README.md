@@ -39,6 +39,7 @@ Rodrigo Cericatto
 - Individual Codelabs
    - [Room with Coroutines and Espresso Unit Test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15)
    - [Automated Accessibility Testing using Espresso](https://codelabs.developers.google.com/codelabs/a11y-testing-espresso/index.html?index=..%2F..index#0)
+   - [Using Dagger in your Android app - Kotlin](https://codelabs.developers.google.com/codelabs/android-dagger/index.html?index=..%2F..index#0)
 
 ---
 
