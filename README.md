@@ -35,6 +35,8 @@ Rodrigo Cericatto
    - [Android Fundamentals: Espresso for UI Testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0)
 - Advanced Android in Kotlin
    - [Advanced Android in Kotlin: Testing Basics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics/index.html?index=..%2F..index#6)
+      - [~~Unit-testing LiveData and other common observability problems~~](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04)
+      - [~~LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case)~~](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
    - [Advanced Android in Kotlin: Introduction to Test Doubles and Dependency Injection](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-test-doubles/index.html?index=..%2F..index#0)
    - [Advanced Android in Kotlin: Survey of Testing Topics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-survey/index.html?index=..%2F..index#0)
 - Individual Codelabs
