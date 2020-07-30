@@ -37,6 +37,7 @@ Rodrigo Cericatto
 - Android Kotlin Fundamentals
    - [~~Android Kotlin Fundamentals 03.1: Create a fragment~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-create-and-add-fragment/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [~~Android Kotlin Fundamentals 03.2: Define navigation paths~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation/index.html?index=..%2F..android-kotlin-fundamentals#0)
+      - [Nested Navigation Graphs](https://developer.android.com/guide/navigation/navigation-nested-graphs#include)
    - [Android Kotlin Fundamentals 03.3: Start an external activity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 04.1: Lifecycles and logging](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 04.2: Complex lifecycle situations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-complex-lifecycle/index.html?index=..%2F..android-kotlin-fundamentals#0)
@@ -67,6 +68,7 @@ Rodrigo Cericatto
    - [Room with Coroutines and Espresso Unit Test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15)
    - [Automated Accessibility Testing using Espresso](https://codelabs.developers.google.com/codelabs/a11y-testing-espresso/index.html?index=..%2F..index#0)
    - [Using Dagger in your Android app - Kotlin](https://codelabs.developers.google.com/codelabs/android-dagger/index.html?index=..%2F..index#0)
+   - [Jetpack Navigation](https://codelabs.developers.google.com/codelabs/android-navigation/index.html?index=..%2F..%2Findex#0)
 
 ---
 
