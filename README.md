@@ -36,7 +36,7 @@ Rodrigo Cericatto
    - [Android Fundamentals 06.1: Espresso for UI Testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0)
 - Android Kotlin Fundamentals
    - [~~Android Kotlin Fundamentals 03.1: Create a fragment~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-create-and-add-fragment/index.html?index=..%2F..android-kotlin-fundamentals#0)
-   - [Android Kotlin Fundamentals 03.2: Define navigation paths](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation/index.html?index=..%2F..android-kotlin-fundamentals#0)
+   - [~~Android Kotlin Fundamentals 03.2: Define navigation paths~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 03.3: Start an external activity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 04.1: Lifecycles and logging](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 04.2: Complex lifecycle situations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-complex-lifecycle/index.html?index=..%2F..android-kotlin-fundamentals#0)
