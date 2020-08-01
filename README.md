@@ -63,6 +63,8 @@ Rodrigo Cericatto
       - [~~Unit-testing LiveData and other common observability problems~~](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04)
       - [~~LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case)~~](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
    - [Advanced Android in Kotlin 05.2: Introduction to Test Doubles and Dependency Injection](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-test-doubles/index.html?index=..%2F..index#0)
+      - [Fundamentals of Testing](https://developer.android.com/training/testing/fundamentals)
+      - [Testing on the Toilet: Know Your Test Doubles](https://testing.googleblog.com/2013/07/testing-on-toilet-know-your-test-doubles.html)
    - [Advanced Android in Kotlin 05.3: Survey of Testing Topics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-survey/index.html?index=..%2F..index#0)
 - Individual Codelabs
    - [Room with Coroutines and Espresso Unit Test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15)
