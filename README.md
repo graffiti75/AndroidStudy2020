@@ -85,6 +85,7 @@ Rodrigo Cericatto
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
    - Robert C. Martin (Uncle Bob)
 - [~~Robert C. Martin - Clean Architecture (Vimeo)~~](https://vimeo.com/43612849)
+- [~~The S.O.L.I.D Principles in Pictures~~](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ### Fernando Cejas
 
