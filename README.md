@@ -44,7 +44,7 @@ Rodrigo Cericatto
    - [~~Android Kotlin Fundamentals 05.1: ViewModel and ViewModelFactory~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/index.html?index=..%2F..android-kotlin-fundamentals#0)
       - [Model–view–viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
       - [Factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
-   - [Android Kotlin Fundamentals 05.2: LiveData and LiveData observers](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data/index.html?index=..%2F..android-kotlin-fundamentals#0)
+   - [~~Android Kotlin Fundamentals 05.2: LiveData and LiveData observers~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 05.3: Data binding with ViewModel and LiveData](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 05.4: LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 06.1: Create a Room database](https://codelabs.developers.google.com/codelabs/kotlin-android-training-room-database/index.html?index=..%2F..android-kotlin-fundamentals#0)
