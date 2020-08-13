@@ -46,7 +46,7 @@ Rodrigo Cericatto
       - [Factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
    - [~~Android Kotlin Fundamentals 05.2: LiveData and LiveData observers~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [~~Android Kotlin Fundamentals 05.3: Data binding with ViewModel and LiveData~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding/index.html?index=..%2F..android-kotlin-fundamentals#0)
-   - [Android Kotlin Fundamentals 05.4: LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations/index.html?index=..%2F..android-kotlin-fundamentals#0)
+   - [~~Android Kotlin Fundamentals 05.4: LiveData transformations~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 06.1: Create a Room database](https://codelabs.developers.google.com/codelabs/kotlin-android-training-room-database/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 06.2: Coroutines and Room](https://codelabs.developers.google.com/codelabs/kotlin-android-training-coroutines-and-room/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 06.3: Use LiveData to control button states](https://codelabs.developers.google.com/codelabs/kotlin-android-training-quality-and-states/index.html?index=..%2F..android-kotlin-fundamentals#0)
