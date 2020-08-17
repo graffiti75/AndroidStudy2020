@@ -68,7 +68,11 @@ Rodrigo Cericatto
       - [Binding Adapters with Kotlin: Part 1](https://android.jlelse.eu/binding-adapters-with-kotlin-part-1-78b957ad6b8b)
       - [Binding Adapters with Kotlin: Part 2](https://android.jlelse.eu/binding-adapters-with-kotlin-part-2-6594376a26cd)
       - [Binding adapters](https://developer.android.com/topic/libraries/data-binding/binding-adapters)
-   - [Android Kotlin Fundamentals 08.3 Filtering and detail views with internet data](https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-filtering/index.html?index=..%2F..android-kotlin-fundamentals#0)
+   - [~~Android Kotlin Fundamentals 08.3 Filtering and detail views with internet data~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-filtering/index.html?index=..%2F..android-kotlin-fundamentals#0)
+      - [Pass data between destinations](https://developer.android.com/guide/navigation/navigation-pass-data)
+      - [Get started with the Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)
+      - [Navigation](https://developer.android.com/guide/navigation)
+      - [Layouts and binding expressions](https://developer.android.com/topic/libraries/data-binding/expressions)
    - [Android Kotlin Fundamentals 09.1: Repository](https://codelabs.developers.google.com/codelabs/kotlin-android-training-repository/index.html?index=..%2F..android-kotlin-fundamentals#7)
    - [Android Kotlin Fundamentals 09.2: WorkManager](https://codelabs.developers.google.com/codelabs/kotlin-android-training-work-manager/index.html?index=..%2F..android-kotlin-fundamentals#0)
 - Advanced Android in Kotlin
