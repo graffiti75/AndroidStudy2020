@@ -62,7 +62,7 @@ https://github.com/graffiti75/FiveCoroutines
       - [Return at Labels](https://kotlinlang.org/docs/reference/returns.html#return-at-labels)
       - [Exceed the Android Speed Limit!](https://medium.com/androiddevelopers/exceed-the-android-speed-limit-b73a0692abc1)
    - [~~Android Kotlin Fundamentals 06.3: Use LiveData to control button states~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-quality-and-states/index.html?index=..%2F..android-kotlin-fundamentals#0)
-   - [Android Kotlin Fundamentals 07.1: RecyclerView fundamentals](https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals/index.html?index=..%2F..android-kotlin-fundamentals#0)
+   - [~~Android Kotlin Fundamentals 07.1: RecyclerView fundamentals~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 07.2: DiffUtil and data binding with RecyclerView](https://codelabs.developers.google.com/codelabs/kotlin-android-training-diffutil-databinding/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 07.3: GridLayout with RecyclerView](https://codelabs.developers.google.com/codelabs/kotlin-android-training-grid-layout/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 07.4: Interacting with RecyclerView items](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interacting-with-items/index.html?index=..%2F..android-kotlin-fundamentals#0)
