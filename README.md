@@ -101,6 +101,7 @@ https://github.com/graffiti75/FiveCoroutines
    - [Jetpack Navigation](https://codelabs.developers.google.com/codelabs/android-navigation/index.html?index=..%2F..%2Findex#0)
    - [~~Using Hilt in your Android app~~](https://developer.android.com/codelabs/android-hilt)
    - [~~Starting Android Accessibility~~](https://developer.android.com/codelabs/starting-android-accessibility#0)
+   - [~~Recognize text and facial features with ML Kit:Android~~](https://codelabs.developers.google.com/codelabs/mlkit-android#0)
 ---
 
 # CLEAN ARCHITECTURE
