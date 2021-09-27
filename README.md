@@ -102,7 +102,8 @@ https://github.com/graffiti75/FiveCoroutines
    - [~~Using Hilt in your Android app~~](https://developer.android.com/codelabs/android-hilt)
    - [~~Starting Android Accessibility~~](https://developer.android.com/codelabs/starting-android-accessibility#0)
    - [~~Recognize text and facial features with ML Kit:Android~~](https://codelabs.developers.google.com/codelabs/mlkit-android#0)
-   - [Background Work with WorkManager - Kotlin](https://developer.android.com/codelabs/android-workmanager#0)
+   - [~~Background Work with WorkManager - Kotlin~~](https://developer.android.com/codelabs/android-workmanager#0)
+   - [Advanced WorkManager](https://developer.android.com/codelabs/android-adv-workmanager)
    - [~~Jetpack Compose basics~~](https://developer.android.com/codelabs/jetpack-compose-basics#0)
    - [Layouts in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-layouts#0)
 
