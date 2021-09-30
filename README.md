@@ -65,7 +65,7 @@ https://github.com/graffiti75/FiveCoroutines
    - [~~Android Kotlin Fundamentals 07.1: RecyclerView fundamentals~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [~~Android Kotlin Fundamentals 07.2: DiffUtil and data binding with RecyclerView~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-diffutil-databinding/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [~~Android Kotlin Fundamentals 07.3: GridLayout with RecyclerView~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-grid-layout/index.html?index=..%2F..android-kotlin-fundamentals#0)
-   - [Android Kotlin Fundamentals 07.4: Interacting with RecyclerView items](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interacting-with-items/index.html?index=..%2F..android-kotlin-fundamentals#0)
+   - [~~Android Kotlin Fundamentals 07.4: Interacting with RecyclerView items~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interacting-with-items/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [Android Kotlin Fundamentals 07.5: Headers in RecyclerView](https://codelabs.developers.google.com/codelabs/kotlin-android-training-headers/index.html?index=..%2F..android-kotlin-fundamentals#0)
    - [~~Android Kotlin Fundamentals 08.1: Getting data from the internet~~](https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-data/index.html?index=..%2F..android-kotlin-fundamentals#0)
       - [~~ViewModelScope~~](https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope)
